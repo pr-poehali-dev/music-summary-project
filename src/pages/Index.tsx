@@ -196,7 +196,7 @@ export default function Index() {
         <div className="slide-inner" style={{ position: "relative", zIndex: 2 }}>
           <div className="slide3-tag">Момент с тобой</div>
           <p className="slide3-text">
-            Помнишь, как мы каждую субботу бежали смотреть новые серии сериалов Disney? Или как ездили в Саратов на машине? И ещё миллион моментов, где мы смеялись как сумасшедшие?
+            Помнишь, как мы каждую субботу бежали смотреть новые серии сериалов дисней? Или как ездили в Саратов на машине? Или как пропили и пропели в караоке Каравеллу? И ещё миллион моментов, где мы смеялись как сумасшедшие?
           </p>
           <p className="slide3-thanks">Спасибо тебе за эти моменты</p>
           <button className="btn-main" onClick={goSlide4}>Что там дальше? →</button>
@@ -218,7 +218,7 @@ export default function Index() {
             </div>
             <div className="stat-item">
               <div className="stat-label">Как сильно я дорожу тобой</div>
-              <div className="stat-value stat-small">настолько, насколько это возможно в этой вселенной</div>
+              <div className="stat-value stat-small">так же сильно, как последний литр бензина в баке, когда до заправки 50 километров по трассе</div>
             </div>
           </div>
           <p className="slide4-footer">
